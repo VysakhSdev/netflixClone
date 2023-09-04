@@ -1,0 +1,25 @@
+.bannerHead{
+color: white;
+object-fit: cover;
+height: 600px;
+
+}
+.banner_content{
+    margin-left: 3rem;
+    padding-top: 150px;
+    height:200px ;
+    background-color:none;
+}
+.banner_title{
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3;
+}
+.banner_dis{
+    width: 45rem;
+    line-height: 1.3rem;
+    padding: 1.5rem;
+    max-width: 360px;
+    height: 80px;
+    font-size: 1rem;
+}
